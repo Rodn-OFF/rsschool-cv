@@ -17,7 +17,8 @@
     I am responsible, not afraid to take on additional responsibilities, neat, independent. 
     My motto is "Every day you need to learn something new, otherwise the day will be wasted" ... 
     I love my children very much.
-    ## Skills
+    
+## Skills
 *******
 * HTML
 * CSS
