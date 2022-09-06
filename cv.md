@@ -14,4 +14,41 @@
 ## About Me
 *******
     I want to become a popular programmer.
-    I am responsible, not afraid to take on additional responsibilities, neat, independent, my motto is "Every day you need to learn something new, otherwise the day will be wasted" ... I love my children very much.
+    I am responsible, not afraid to take on additional responsibilities, neat, independent. 
+    My motto is "Every day you need to learn something new, otherwise the day will be wasted" ... 
+    I love my children very much.
+    ## Skills
+*******
+* HTML
+* CSS
+* JavaScript (Basic)
+* React JS/React Native (Basic)
+* C++ (Basic)
+* C#/Unity (Basic)
+
+## Code Example
+*******
+```
+    function duplicateEncode(word){
+        word = word.toUpperCase();
+        return word.split("").map((a) => word.indexOf(a) != word
+        .lastIndexOf(a) ? ")" : "(" ).join("");
+    };
+```
+## Education
+*******
+* __Blagoveshchensk Communal Construction College__
+    - Faculty of Law.
+* __Special Military School of Communications__
+* __Siberian State University of Telecommunications and Informatics__
+    - Multichannel telecommunication systems.
+
+## Experience
+*******
+* Creation of a finished application in Unity/C#, with subsequent publication in the Play Market. [Номенклатура карт](https://play.google.com/store/apps/details?id=com.DariaGD.Map)
+* Working on a React Native app.
+
+## Languages
+*******
+* Russian
+* English level A1
