@@ -1,1 +1,1 @@
-https://Rodn-OFF.github.io/rsschool-cv/cv
+https://Rodn-OFF.github.io/rsschool-cv/
